@@ -1,0 +1,47 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+table {
+  border: 1px solid black;
+  margin-bottom: 50px;
+}
+
+tr.data_type {
+  font-weight: bold;
+}
+
+td {
+  width: 200px;
+}
+
+form {
+  width: 300px;
+}
+
+h1 {
+  width: 100%;
+  border-bottom: 1px solid black;
+  margin-bottom: 10px;
+}
+
+.info {
+  float: right;
+  height: 17px;
+}
+
+.form_line {
+  height: 25px;
+}
+
+input {
+  height: 10px;
+}
+
+.submit_button {
+  height: 21px;
+  width: 65px;
+  margin-top: 40px;
+  float: right;
+}
